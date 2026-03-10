@@ -1,42 +1,42 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-cKt(){return new A.G4(B.dc("ia"))},
-G4:function G4(d){this.a=d}}
+cKb(){return new A.FN(B.dc("da"))},
+FN:function FN(d){this.a=d}}
 B=c[0]
 C=c[57]
-A=a.updateHolder(c[29],A)
-A.G4.prototype={
-gkO(){return"false"},
-gjE(){return"Repeter le contrasigno"},
-gmy(){return"Non es un file de imagine."},
-gb7(d){return"Remover"},
-gm5(){return"Importar ora"},
-gm3(){return"Importar emojis"},
-gm4(){return"Importar ab un file .zip"},
-glM(){return"Exportar pacchetto de emotes como un .zip"},
-gnG(d){return"Reimplaciar"},
-gex(){return"A proposito de"},
-h9(d){return"About "+d},
-gha(d){return"Acceptar"},
-hb(d){return"\ud83d\udc4d "+d+" acceptava tu invitation"},
-ghd(){return"Conto"},
-he(d){return"\ud83d\udd10 "+d+" activated end to end encryption"},
-ghf(){return"Adder email"},
-glm(){return"Please confirm your Matrix ID in order to delete your account."},
-kE(d){return"Isto deberea esser "+d},
-ghh(){return"Add to space"},
+A=a.updateHolder(c[11],A)
+A.FN.prototype={
+gkO(){return"true"},
+gjE(){return"Gentag password"},
+gmy(){return"Ikke en billedfil."},
+gb7(d){return"Fjern"},
+gm5(){return"Importer nu"},
+gm3(){return"Importer emojis"},
+gm4(){return"Importer fra .zip fil"},
+glM(){return"Eksport\xe9r Emote-pakke som .zip-fil"},
+gnG(d){return"Erstat"},
+gex(){return"Om"},
+h9(d){return"Om "+d},
+gha(d){return"Accept\xe9r"},
+hb(d){return"\ud83d\udc4d "+d+" accepterede invitationen"},
+ghd(){return"Konto"},
+he(d){return"\ud83d\udd10 "+d+" aktiverede end-to-end kryptering"},
+ghf(){return"Tilf\xf8j e-mail"},
+glm(){return"Bekr\xe6ft din Matrix-ID for at slette din konto."},
+kE(d){return"Den burde v\xe6re "+d},
+ghh(){return"Tilf\xf8j til gruppe"},
 ghi(){return"Admin"},
 ghj(){return"alias"},
 ghk(){return"All"},
-glg(){return"Upgrade this room to the given room version"},
-glb(){return"Send some googly eyes"},
-gla(){return"Send a cuddle"},
-glc(){return"Send a hug"},
-k_(d){return d+" sends you googly eyes"},
-lw(d){return d+" cuddles you"},
-m2(d){return d+" hugs you"},
-hl(d){return d+" answered the call"},
-gf1(){return"Anyone can join"},
+glg(){return"Opgrader dette rum til den givne rumversion"},
+glb(){return"Send googly-eyes"},
+gla(){return"Send et varmt smil"},
+glc(){return"Send et kram"},
+k_(d){return d+" sender dig googly-eyes"},
+lw(d){return d+" sender dig et varmt smil"},
+m2(d){return d+" krammer dig"},
+hl(d){return d+" svarer p\xe5 dit opkald"},
+gf1(){return"Enhver kan deltage"},
 gf2(){return"Archive"},
 ghm(){return"Are guest users allowed to join?"},
 gd3(){return"Are you sure?"},
@@ -681,6 +681,6 @@ gpN(){return"Create new chat"},
 gq3(d){return"Reset"},
 B(d,e){return this.gb7(this).$1(e)}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.G4,C.aD)})()
-B.dI(b.typeUniverse,JSON.parse('{"G4":{"aD":[]}}'))};
-(a=>{a["daiH1LfPaRCIA3qPcNNlgi/CMy0="]=a.current})($__dart_deferred_initializers__);
+y(A.FN,C.aD)})()
+B.dI(b.typeUniverse,JSON.parse('{"FN":{"aD":[]}}'))};
+(a=>{a["F5T4sWXE93efnBbJXf6oueoWNtY="]=a.current})($__dart_deferred_initializers__);

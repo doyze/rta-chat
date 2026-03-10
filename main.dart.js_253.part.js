@@ -1,29 +1,29 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-cKt(){return new A.G4(B.dc("ia"))},
-G4:function G4(d){this.a=d}}
+cK8(){return new A.FK(B.dc("bo"))},
+FK:function FK(d){this.a=d}}
 B=c[0]
 C=c[57]
-A=a.updateHolder(c[29],A)
-A.G4.prototype={
+A=a.updateHolder(c[8],A)
+A.FK.prototype={
 gkO(){return"false"},
-gjE(){return"Repeter le contrasigno"},
-gmy(){return"Non es un file de imagine."},
-gb7(d){return"Remover"},
-gm5(){return"Importar ora"},
-gm3(){return"Importar emojis"},
-gm4(){return"Importar ab un file .zip"},
-glM(){return"Exportar pacchetto de emotes como un .zip"},
-gnG(d){return"Reimplaciar"},
-gex(){return"A proposito de"},
+gjE(){return"Repeat password"},
+gmy(){return"Not an image file."},
+gb7(d){return"Remove"},
+gm5(){return"Import now"},
+gm3(){return"Import Emojis"},
+gm4(){return"Import from .zip file"},
+glM(){return"Export Emote pack as .zip"},
+gnG(d){return"Replace"},
+gex(){return"About"},
 h9(d){return"About "+d},
-gha(d){return"Acceptar"},
-hb(d){return"\ud83d\udc4d "+d+" acceptava tu invitation"},
-ghd(){return"Conto"},
+gha(d){return"Accept"},
+hb(d){return"\ud83d\udc4d "+d+" accepted the invitation"},
+ghd(){return"Account"},
 he(d){return"\ud83d\udd10 "+d+" activated end to end encryption"},
-ghf(){return"Adder email"},
+ghf(){return"Add email"},
 glm(){return"Please confirm your Matrix ID in order to delete your account."},
-kE(d){return"Isto deberea esser "+d},
+kE(d){return"This should be "+d},
 ghh(){return"Add to space"},
 ghi(){return"Admin"},
 ghj(){return"alias"},
@@ -681,6 +681,6 @@ gpN(){return"Create new chat"},
 gq3(d){return"Reset"},
 B(d,e){return this.gb7(this).$1(e)}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.G4,C.aD)})()
-B.dI(b.typeUniverse,JSON.parse('{"G4":{"aD":[]}}'))};
-(a=>{a["daiH1LfPaRCIA3qPcNNlgi/CMy0="]=a.current})($__dart_deferred_initializers__);
+y(A.FK,C.aD)})()
+B.dI(b.typeUniverse,JSON.parse('{"FK":{"aD":[]}}'))};
+(a=>{a["vEpPZv5h9qzd4dJqunBWX2OgJuE="]=a.current})($__dart_deferred_initializers__);
